@@ -6,12 +6,15 @@ Angular FilePond is a handy adapter component for [FilePond](https://github.com/
 [![npm version](https://badge.fury.io/js/ngx-filepond.svg)](https://www.npmjs.com/package/ngx-filepond)
 ![npm](https://img.shields.io/npm/dt/ngx-filepond)
 ![npm peer dependency version](https://img.shields.io/npm/dependency-version/ngx-filepond/peer/@angular/core)
+[![Discord](https://img.shields.io/discord/1422126182924554291?label=discord)](https://discord.gg/KTyymsrTrX)
+
+[Documentation](https://pqina.nl/filepond/docs) • [Discord](https://discord.gg/KTyymsrTrX) • [Example project](https://stackblitz.com/github/pqina/pintura-example-angular?file=src%2Fapp%2Ffilepond-example%2Ffilepond-example.component.ts)
 
 ---
 
 [<img src="https://github.com/pqina/filepond-github-assets/blob/master/header.svg" alt="FilePond"/>](https://www.buymeacoffee.com/rikschennink/)
 
-[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) / [Use FilePond with Pintura](https://pqina.nl/pintura/?ref=github-filepond) / [Dev updates on Twitter](https://twitter.com/rikschennink/)
+[Buy me a Coffee](https://www.buymeacoffee.com/rikschennink/) • [Use FilePond with Pintura](https://pqina.nl/pintura/?ref=github-filepond) • [Dev updates](https://rik.schenn.ink/)
 
 ---
 
