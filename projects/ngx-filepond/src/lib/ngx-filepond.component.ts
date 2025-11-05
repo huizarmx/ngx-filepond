@@ -67,10 +67,11 @@ const outputs: Array<string> = [
 
 // Component outline
 @Component({
-  selector: "file-pond",
-  encapsulation: ViewEncapsulation.None,
-  templateUrl: "./ngx-filepond.component.html",
-  styleUrls: ["./ngx-filepond.component.css"],
+    selector: "file-pond",
+    encapsulation: ViewEncapsulation.None,
+    templateUrl: "./ngx-filepond.component.html",
+    styleUrls: ["./ngx-filepond.component.css"],
+    standalone: false
 })
 export class FilePondComponent implements AfterViewInit, OnChanges, OnDestroy {
   @Input()
